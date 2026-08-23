@@ -4,7 +4,7 @@
 #include "sort.h"
 
 /**
- * struct bubble_sort - sorts an array with bubble algo
+ * bubble_sort - sorts an array with bubble algo
  *
  * @size: size of array
  * @array: array
