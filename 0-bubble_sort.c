@@ -3,6 +3,13 @@
 
 #include "sort.h"
 
+/**
+ * struct bubble_sort - sorts an array with bubble algo
+ *
+ * @size: size of array
+ * @array: array
+ *
+ */
 void bubble_sort(int *array, size_t size)
 {
 	int swapped;
